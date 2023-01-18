@@ -1,2 +1,3 @@
 ContractPack - KerbalProgression2 0.0.1 (Pre-Release)
 	- Initial Release
+	- Several contracts are missing or planned for future expansion
