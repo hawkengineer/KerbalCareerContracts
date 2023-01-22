@@ -1,13 +1,17 @@
-ContractPack - KerbalProgression2 0.0.3 (Pre-Release)
+ContractPack - KerbalCareerContracts 0.0.4 (Pre-Release)
+	- Fixed some logic with the kerbal death parameter checks
+	- Several contracts are missing or planned for future expansion
+
+ContractPack - KerbalCareerContracts 0.0.3 (Pre-Release)
 	- Fixed some logic and erros from initial testing
 	- Several contracts are missing or planned for future expansion
 
 
-ContractPack - KerbalProgression2 0.0.2 (Pre-Release)
+ContractPack - KerbalCareerContracts 0.0.2 (Pre-Release)
 	- Added Kerbal Crew Missions
 	- Several contracts are missing or planned for future expansion
 
 
-ContractPack - KerbalProgression2 0.0.1 (Pre-Release)
+ContractPack - KerbalCareerContracts 0.0.1 (Pre-Release)
 	- Initial Release
 	- Several contracts are missing or planned for future expansion
