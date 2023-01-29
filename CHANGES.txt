@@ -1,3 +1,8 @@
+ContractPack - KerbalCareerContracts 0.0.6 (Pre-Release)
+	- Fixed logic in moon orbit and orbit types contracts
+	- Minor fixes based on initial testing
+	- Several contracts are missing or planned for future expansion
+
 ContractPack - KerbalCareerContracts 0.0.5 (Pre-Release)
 	- Fixed automated docking contract - added requirement check for docking node unlock
 	- Added power checks for orbittypes contract, need to have power after the 1 hour duration parameter
