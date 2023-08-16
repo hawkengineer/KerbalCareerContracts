@@ -1,4 +1,4 @@
-ontractPack - KerbalCareerContracts 0.0.87 (Pre-Release)
+ContractPack - KerbalCareerContracts 0.0.8 (Pre-Release)
 	- Added first set of space station contracts
 	- Added first contract for commercial launch services
 	- Additional fixes from testing
